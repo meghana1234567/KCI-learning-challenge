@@ -1,5 +1,5 @@
 # KCI-learning-challenge
-This is a template for KCI learning challenge
+This is the template for KCI learning challenge
 
 Fork this repo and work on your challenges based on your domain you selected in KCI.
 
