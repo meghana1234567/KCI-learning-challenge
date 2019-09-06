@@ -17,7 +17,10 @@ Example.
 
 Day 1 (6/9/2019)
 1. Linux
-   * [Linux commands]()
+   * [Linux commands](https://github.com/krutpos-club/KCI-learning-challenge/tree/master/linux)
 
 
 This file has markdown layout. If you are not sure about it refer to the styles and syntax [here](https://guides.github.com/features/mastering-markdown/) and use it accordingly
+
+Finally Describe every commits by giving a title in the below commit field when you update. 
+PS: Give meaningful commit message.
