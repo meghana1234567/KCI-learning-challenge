@@ -10,16 +10,14 @@ Follow this format.
 Day 1 (date)
 1. Topic 1
    * Sub topic with links
-     One line description
-
+   
+Links should direct to folders inside the repository.
 
 Example.
 
 Day 1 (6/9/2019)
 1. Linux
    * [Linux commands]()
-     File handling and basic linux commands.
-
 
 
 This file has markdown layout. If you are not sure about it refer to the styles and syntax [here](https://guides.github.com/features/mastering-markdown/) and use it accordingly
