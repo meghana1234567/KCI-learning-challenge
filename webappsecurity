@@ -1,0 +1,15 @@
+WEB APPLICATON SECURITY:
+Web applicaton security plays a major role in security testing.It plays a vital and dominant role in present market developing an application doesn't make anysense.t will become effective only when we provide security,so it is important to give security for web application.
+
+WEB SECURITY VULNERABILITES:
+Vulnerabilities makes a web application to acscess it's important data by hacking so it is important to know about the vulnerabilities before actually making the web secure.vulnerabilities are of many kinds we will see about few 
+
+1.Cross site scripting(XSS):XSS allow an attacker to inject scripts into a website in order to gain the access directly.
+
+2.SQL injection:It is a method by which the hacker exploits vulnerabilities through database means it will try to gain the access through search queries and login pages.
+
+3.Denial of service and Distributed denial of service:Attackers are able to target on service and it's surroundings with different types of attacks by traffic
+
+4.Meory corruption:It happends when location in a memory is unexpectedly modified and it makes the softwares to behave unexpectedly.
+
+5.Cross-site request forgery:It involves tricking a victim into making a request that utilize the authorization and authentication by that it can control user's data
