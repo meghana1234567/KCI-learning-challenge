@@ -1,0 +1,61 @@
+Security testing Tools are used to test whether the web appliaction is secure or not it hepls to give us information about the current sitaution of our web appliacton so that we can make our website more secure if it was not secure in this way testing tools helps a lot in web app security
+
+Some of the major testing tools are:
+
+1.Arachni:
+
+* It is used  for both penetration testeting and admin testing.
+* It is designed to fetch the security issues within the web application.
+* It able to cover vunlnerabilities like:
+
+      *sql injection,xss injection,invalid redirect........
+
+2.Grabber:
+
+* It is designed specially for small websites.
+* It has no GUI interface is written in python.
+* It able to cover vulnerabilities like:
+  
+       *sql injection,backup file verification,CSS,simple ajax verification.
+
+3.Iron wasp:
+
+*It is a powerful scanning tool as the name represents and is able to cover 25 types of vulnerabilites.
+*It can able to cover vulnerablities like:
+            
+            *broken authentcation,CSRF,CSS...........
+
+4.Nogotofail:
+
+*It is a network traffic tool created fro Google 
+*Able to detect TLS/SSL vulnerabilities and also misconfiguartions.
+*It can able to cover vulnerabilites like:
+  
+           *MITM attacks,SSL&TLS injection
+
+5Sonar qube:
+*It is used to measure the source code quality and it's efficiency of web app.
+*we able to detect the issues found in sonar qube by green and red light.
+*It able to cover vulnerabilities like:
+
+              CSS,SQL injection,DOS attack.............
+6.SQL ap:
+
+*It allows automation of processto detect and utilize the SQL njection vulnerablity in a website's database
+*It supports the following kind of techniques:
+
+              *boolean based blind,error based,stacked based,out of band...........
+7.W3af:
+
+*It is a popular web application testing framework and developed using python.It supports almost 200 kind of security vulnerabilities.
+*It able to cover vulnerablities like :
+
+                   *Blind sql injection,buffer over flow,CSRF.............
+
+8.Zed attack proxy(ZAP):
+
+*It is developed by OWAP.
+*It helps to find any vulnerablities in web app during webapp testing and developing also.
+*It can able to coer vulnerabilities like:
+
+                  *Application error disclosure,sql injection,XSS injection.........  

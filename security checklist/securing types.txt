@@ -1,0 +1,36 @@
+Creating a security for web app is neccessary to meet the requirements of the users.There are any ways to protect web applicatons apart from WAF's.some of the ways are:
+ 
+Information gathering:
+
+review the applicaton manually and identify the entry points and client side code and also classify the third party code.
+
+
+Authorization:
+
+check the applicaton for the traversal,vertical and horizontal access control issues,ssing authorization and insecure,direct object reference.
+
+
+Cryptography:
+
+Cryptography makes the code more stronger and it can encrypted by using specific algorithms.
+
+
+Denial of service(dos):
+
+Denial of service helps as a protection against threats to the web application to make it more secure,but it can not protect against high volume DOS or DDOS attacks.
+   
+
+Some ore efficient ways to protect our web applcation are:
+
+DDOS protection:
+
+This service offer a blankt protection against all network layers and applications ddos attacks.
+
+
+Bolt filterng:
+
+Malicious bolts are used in mass scale automated assaults and it is a free service that uses advanced client classification,and it also keep monitoring the client traffic.
+
+
+
+
