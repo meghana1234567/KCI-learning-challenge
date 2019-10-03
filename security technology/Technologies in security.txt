@@ -1,0 +1,15 @@
+Technolgies n security:
+
+Security is fundamentally aspect of any web app,there are a number of technical solutions to consider when designing,building,implementing and testing secure web applications. At a any level, these solutions include:
+
+   *Black box testing tools such as Web application security scanners,vulnerability scanners and penetration testing software.
+
+   *White box testing tools such as static source code analyzers.
+
+   *Fuzzing,tools used for input testing.
+
+   *Web application security scanner (vulnerability scanner).
+
+   *Web application firewalls (WAF),used to provide firewall-type protection at the web application layer.
+
+   *Password cracking tools for testing password strength and implementation.

@@ -1,0 +1,15 @@
+OWASP is the emerging standards body for web application security. In particular they have published the OWASP Top 10,which describes in detail the major threats against web applications. 
+The Web Application Security Consortium (WASC) has created the Web Hacking Incident Database (WHID) and also produced open source best practice documents on web application security. 
+
+Open Web Application Security Project (OWASP):
+
+OWASP is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of "web application security".
+ 
+
+The Open Web Application Security Project (OWASP)covers the processes,techniques, and tools used during a mobile app security.We can get all updates of web app security through OWASP.
+
+OWASP can able to give all kind of information of attacks and vulnerablities of web app which helps to ake our web app ore secure.It will list all (a-z) attacks 
+
+
+Reference:https:www.owasp.org/index.php/Category:Attack
+                https://www.owasp.org/index.php/Main_Page
